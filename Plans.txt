@@ -1,0 +1,8 @@
+This will provide support for discord interactions
+
+Features:
+- Buttons
+- Slash Commands
+- Selection Menu (hopefully)
+
+
