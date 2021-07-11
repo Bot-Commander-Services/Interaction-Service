@@ -1,6 +1,7 @@
 package com.github.WayvshockGD.interactions.util;
 
 import com.github.WayvshockGD.interactions.interfaces.buttons.IButtonComponent;
+import com.github.WayvshockGD.interactions.interfaces.buttons.IButtonOptions;
 import net.dv8tion.jda.api.entities.Emoji;
 import net.dv8tion.jda.api.interactions.Interaction;
 import net.dv8tion.jda.api.interactions.components.Button;
